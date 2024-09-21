@@ -2,7 +2,7 @@ PO
 repositório para o projeto de programação com objetos
 
 autores:
-miguel trêpa
+miguel trêpa &
 mariana jesus
 
 data criação:
